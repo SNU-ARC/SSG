@@ -75,6 +75,8 @@ The parameters used to build each indices are as follows.
 | GLOVE-100   | 500 | 50   | 60    |
 | DEEP100M    | 500 | 40   | 60    |
 
+### Searching with SSG Index
+
 To use the greedy search, use the `tests/evaluate_baseline.sh` script:
 ```shell
 $ cd tests/
